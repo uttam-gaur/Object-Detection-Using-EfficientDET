@@ -11,7 +11,7 @@ D7 model of Efficient Model is used to detect the dynamic object detection NOTE:
 
 *Built with pre-trained models for accuracy
 
-#Tech Stack
+## Tech Stack
 
 *Language: Python
 
